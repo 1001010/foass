@@ -1,0 +1,10 @@
+# Send all traffic to foass.py
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ foass.py/$1 [L]
+
+# ensure we use the script instead of index.html for the start page
+DirectoryIndex foass.py
