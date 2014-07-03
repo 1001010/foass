@@ -2,7 +2,7 @@ FOASS
 =====
 
 Fuck Off As A Service<br/>
-<small>Yes the ackronym is wrong and I'm to lazy to find the backronym for FOASS.  I leave it to the reader to come up with one</small>
+<small>Yes the ackronym is wrong and I'm too lazy to find the backronym for FOASS.  I leave it to the reader to come up with one</small>
 
 
 Back in July 2013, coworkers pointed me to the reddit thread http://www.reddit.com/r/programming/comments/1ih750/fuck_off_as_as_service_foaas/ about http://foaas.herokuapp.com/
